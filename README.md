@@ -1,5 +1,7 @@
 My personal notes, items of interest, things to do and learn, and anything else. 
 
+Let's see if I can commit this change to the general repo.
+
 ## Work
 - [The Tenerife Property Guide](https://www.thetenerifepropertyguide.com)
 - [The Canarian Property Guide](https://www.canarianpropertyguide.com)
