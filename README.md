@@ -37,7 +37,6 @@ My personal notes, items of interest, things to do and learn, and anything else.
 - Lord Gun Bikes: https://www.lordgunbicycles.es/
 - Bull Boxer Shoes: https://www.bullboxer.com/us/lace-up-shoes-cognac-633k21011aconasu.html
 
-
 ## Music
 - https://github.audio/
 - https://www.youtube.com/watch?v=WvFhu_SQFbk
