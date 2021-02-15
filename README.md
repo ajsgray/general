@@ -1,6 +1,6 @@
 My personal notes, items of interest, things to do and learn, and anything else. 
 
-Let's see if I can commit this change to the general repo.
+[My list of wants](wants.md)
 
 ## Work
 - [The Tenerife Property Guide](https://www.thetenerifepropertyguide.com)
