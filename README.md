@@ -32,6 +32,9 @@ My personal notes, items of interest, things to do and learn, and anything else.
 - https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/
 - https://iancarey.ie/blog/stupidthingsvol1
 - http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
+- Lord Gun Bikes: https://www.lordgunbicycles.es/
+- Bull Boxer Shoes: https://www.bullboxer.com/us/lace-up-shoes-cognac-633k21011aconasu.html
+
 
 ## Music
 - https://github.audio/
