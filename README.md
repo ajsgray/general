@@ -1,6 +1,7 @@
 My personal notes, items of interest, things to do and learn, and anything else. 
 
-- [x] Figure out how to structure this repository.
+- [ ] Figure out how to structure this repository.
+- [ ] Move content from my local obsidian vault to here, leave out the daily notes though.
 
 [My list of wants](wants.md)
 
