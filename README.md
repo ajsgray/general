@@ -1,5 +1,7 @@
 My personal notes, items of interest, things to do and learn, and anything else. 
 
+- [ ] Figure out how to structure this repository.
+
 [My list of wants](wants.md)
 
 ## Work
